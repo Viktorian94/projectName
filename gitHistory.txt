@@ -1,3 +1,4 @@
+$ git status
 On branch master
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
@@ -9,3 +10,34 @@ Untracked files:
         gitHistory.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+$ git log
+commit 7d932ab7aeaae6f19ac019d5f6f114c1b190904e (HEAD -> master)
+Author: Viktor Ogievskiy <ogivita11q@gmail.com>
+Date:   Wed Feb 9 21:40:47 2022 +0200
+
+    Історія
+
+commit 01bf7c54ead2bebb59c6ab7555f43bdad68b3c44
+Author: Viktor Ogievskiy <ogivita11q@gmail.com>
+Date:   Wed Feb 9 14:40:11 2022 +0200
+
+    Коментар
+
+
+objects:
+01
+3b
+6b
+7d
+48
+e6
+info
+pack
+
+Last commit:
+    Історія
+
+commit 01bf7c54ead2bebb59c6ab7555f43bdad68b3c44
+Author: Viktor Ogievskiy <ogivita11q@gmail.com>
+Date:   Wed Feb 9 14:40:11 2022 +0200
